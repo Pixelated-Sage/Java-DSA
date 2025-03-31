@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a67cd0f4ce06850","type":"file","file":"Java-DSA/Concepts/Java Topics/Java 03 - Data Types/Java Data Types.md","x":-180,"y":-220,"width":380,"height":329},
+		{"id":"0075621bd8bd8362","x":-560,"y":160,"width":320,"height":320,"type":"file","file":"Java-DSA/Concepts/Java Topics/Java 04 - Variables/Java Variables.md"},
+		{"id":"fd5c5a00c71f91ad","x":-560,"y":720,"width":320,"height":320,"type":"file","file":"Java-DSA/Concepts/Java Topics/Java 05 - Operators/Java Operators.md"}
+	],
+	"edges":[
+		{"id":"52728626540af5af","fromNode":"4a67cd0f4ce06850","fromSide":"left","toNode":"0075621bd8bd8362","toSide":"top"},
+		{"id":"6dca353490632b0b","fromNode":"0075621bd8bd8362","fromSide":"bottom","toNode":"fd5c5a00c71f91ad","toSide":"top"}
+	]
+}
