@@ -4,13 +4,12 @@ These operators play a crucial role in performing arithmetic, logical, relationa
 
 **Types of Operators in Java**
 1. Arithmetic Operators
-	- [Arithmetic Operators](https://www.geeksforgeeks.org/java-arithmetic-operators-with-examples/) are used to perform simple arithmetic operations on primitive and non-primitive data types. 
+	- Arithmetic Operators are used to perform simple arithmetic operations on primitive and non-primitive data types. 
 		-  * : Multiplication
 		-  ****/ :**** Division
 		-  % :**** Modulo
 		-  ****+ :**** Addition
 		-  – : Subtraction
-
 
 2. Unary Operators
 3. Assignment Operator
